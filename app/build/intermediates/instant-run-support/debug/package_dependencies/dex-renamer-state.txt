@@ -1,0 +1,16 @@
+#Sun May 28 22:40:14 ICT 2017
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+base.4=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_c1645f015f7220ada2b3ad79e83dab877da21799
+renamed.0=classes.dex
+base.3=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.5.2_160189f9c9c850e84abafda34e1d825598c5dcc4
+base.2=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b41651fdfe906278d4a24e8aa14615b83762ca78
+base.1=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_ecd3a5e835ca4008f6261bbe312e6f207a7cc688
+base.0=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b79769a18eae0003f908a99496e5f7219cbb32e
+file.4=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_c1645f015f7220ada2b3ad79e83dab877da21799\\classes.dex
+file.3=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.5.2_160189f9c9c850e84abafda34e1d825598c5dcc4\\classes.dex
+file.2=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b41651fdfe906278d4a24e8aa14615b83762ca78\\classes.dex
+file.1=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_ecd3a5e835ca4008f6261bbe312e6f207a7cc688\\classes.dex
+file.0=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b79769a18eae0003f908a99496e5f7219cbb32e\\classes.dex

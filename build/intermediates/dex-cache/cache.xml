@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_58260b927a49fcb89f248453e164bd35df7d01e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99d4fbf4929a97b045935b9d6a1e712fad317388">
+        <dex dex="E:\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0d767e7586691010eee46f5d6d71fcf8b4da6b29\classes.dex" />
+    </item>
+
+</items>

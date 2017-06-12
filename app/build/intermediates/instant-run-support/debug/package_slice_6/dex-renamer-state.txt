@@ -1,0 +1,4 @@
+#Sun May 28 22:40:15 ICT 2017
+base.0=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=E\:\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\Android-Nano-Degree-Project-2-Popular-Movies-Stage-2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
